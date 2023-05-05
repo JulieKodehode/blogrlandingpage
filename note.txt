@@ -1,0 +1,35 @@
+HEADER
+Style: Background photo, border radius bottom left corner,
+   Navbar: logo, links, login sign up
+      Style: log in no background, sign up white, border radius both
+
+   Section: Title, description, log in, learn more
+      Style: Start for free white, learn more no background but border, border radius both
+
+MAIN
+Style: Plain background
+   Section 1: Title, info, photo
+      Style: Circle background right under photo, light background
+
+   Section 2: Photo photo, logo info
+      Style: Circle background behind photo, border radius bottom left corner and top right corner, dark background
+      Flex
+
+   Section 3: Photo, title info, title info
+      Style: Circle background right under photo, light background
+
+FOOTER
+Style: Plain background, border radius top right corner
+   Navbar: Logo, title link, title links, title links
+
+
+NEED:
+   Button1 White with red text, :hover light red and white text
+   Button2 No background only border white text, :hover Button1
+   Button3 No background white text, :hover no hover
+
+   Header navbar link :hover underline, dropbox link :hover heavy font weight
+   Footer navbar link hover: underline
+   Mobile header navbar hamburger :hover dropdown menu
+
+Mobile responsive 13.04
